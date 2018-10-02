@@ -1,3 +1,3 @@
-def reverse_each_word do |word|
-  word = word.reverse
+def reverse_each_word do |sentence|
+  sentence = sentence.reverse
 end
